@@ -41,3 +41,5 @@ TIENDA_ONLINE/
 │── README.md
 
 ```
+## 🌿 Rama demostración
+Este cambio fue realizado en la rama demo.
